@@ -1,0 +1,4 @@
+on:
+  schedule:
+  # Every hour during the work week (i.e. 9am-5pm Mon-Fri)
+  - cron: '0 9-15 * * 1-5'
