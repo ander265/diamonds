@@ -6,3 +6,5 @@ Depends:
     R (>= 4.4.0),
     pak,
     ggplot2
+URL: https://github.com/ander265/diamonds
+BugReports: https://github.com/ander265/diamonds/issues
