@@ -23,7 +23,7 @@ library(ggplot2)
 
 You can also embed plots, for example:
 
-```{r diamonds, echo=FALSE}
+```{r diamonds, echo=TRUE}
 ggplot(diamonds, aes(x=depth, y=price)) + ggtitle(Sys.time()) +
     geom_point()
 ```
